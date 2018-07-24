@@ -4,3 +4,5 @@
      print "dhoni:"
      print "abd:"
 
+score = a+b+c
+
