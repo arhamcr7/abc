@@ -4,5 +4,6 @@
      print "dhoni:"
      print "abd:"
 
-score = a+b+c
+score = a+b+c #nachhu plz print the score plz an also the avg
+
 
